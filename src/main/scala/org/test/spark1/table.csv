@@ -1,0 +1,11 @@
+Account,Date,Status,Amount
+1001,4/1/14,Purchase,100
+1001,4/1/14,Purchase,50
+1001,4/5/14,Purchase,70
+1001,4/1/14,Payment,-150
+1002,4/1/14,Purchase,80
+1002,4/2/14,Purchase,22
+1002,4/4/14,Payment,-120
+1002,4/4/14,Purchase,60
+1003,4/2/14,Purchase,210
+1003,4/3/14,Purchase,15
