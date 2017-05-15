@@ -29,6 +29,7 @@ object fileread {
             file.registerTempTable("genre")
             file.sqlContext.sql("select * from genre").show
             file.write.format("com.databricks.spark.csv").save("hdfs://localhost:8080/yahoo")
+            
            
 
     }
